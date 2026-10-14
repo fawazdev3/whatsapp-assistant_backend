@@ -24,6 +24,7 @@ INSTALLED_APPS = [
     # Nos apps
     "apps.accounts",
     "apps.contacts",
+    "apps.conversations",
 ]
 
 MIDDLEWARE = [
